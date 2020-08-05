@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'YGDataSource_Example' do
+  pod 'YGDataSource', :path => '../'
+
+  target 'YGDataSource_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

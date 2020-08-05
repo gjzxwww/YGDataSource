@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'YGDataSource'
-  s.version          = '0.1.0'
+  s.version          = '1.0.0'
   s.summary          = 'A short description of YGDataSource.'
 
 # This description is used to generate tags and improve search results.
@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/wyg/YGDataSource'
+  s.homepage         = 'https://github.com/gjzxwww/YGDataSource'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'wyg' => 'gjzxwyg@163.com' }
-  s.source           = { :git => 'https://github.com/wyg/YGDataSource.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/gjzxwww/YGDataSource.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'

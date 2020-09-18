@@ -1,0 +1,16 @@
+PODS:
+  - YGDataSource (0.1.0)
+
+DEPENDENCIES:
+  - YGDataSource (from `../`)
+
+EXTERNAL SOURCES:
+  YGDataSource:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YGDataSource: f581608b16c2b27dd815d60e39713cbda2c4f690
+
+PODFILE CHECKSUM: d93c7deeef429aa9125596583d5c530ce5e19dff
+
+COCOAPODS: 1.8.4
